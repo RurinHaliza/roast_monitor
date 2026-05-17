@@ -1,16 +1,81 @@
-# roast_monitor
+# Roast Monitor ☕
 
-A new Flutter project.
+Smart IoT Coffee Roaster monitoring application built using Flutter.
 
-## Getting Started
+## 📱 Features
 
-This project is a starting point for a Flutter application.
+- Real-time roasting monitoring
+- Temperature tracking
+- Roast stage monitoring
+- Roasting history
+- Statistics dashboard
+- Modern coffee-themed UI
+- Responsive mobile design
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🛠 Technologies Used
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Flutter
+- Dart
+- Material Design
+- IoT Integration (planned)
+- MQTT (planned)
+- Firebase (planned)
+
+---
+
+## 📸 Screenshots
+
+### Monitor Page
+(Add screenshot here)
+
+### History Page
+(Add screenshot here)
+
+---
+
+## 🚀 Getting Started
+
+### Clone Repository
+
+```bash
+git clone https://github.com/USERNAME/iot-coffee-roaster-app.git
+```
+
+### Enter Project Folder
+
+```bash
+cd iot-coffee-roaster-app
+```
+
+### Install Dependencies
+
+```bash
+flutter pub get
+```
+
+### Run Project
+
+```bash
+flutter run
+```
+
+---
+
+
+## 🎯 Future Development
+
+- ESP32 integration
+- Real-time MQTT communication
+- Firebase backend
+- Live temperature chart
+- Roast profile presets
+- Authentication system
+- Export roasting report
+
+---
+
+## 👨‍💻 Developer
+
+Developed by Rin
