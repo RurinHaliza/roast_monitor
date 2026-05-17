@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'pages/history_page.dart';
+import 'navigation/main_navigation.dart';
 
 void main() {
   runApp(const RoastMonitorApp());
@@ -10,13 +10,17 @@ class RoastMonitorApp extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
+
     return MaterialApp(
       debugShowCheckedModeBanner: false,
+
       title: 'Roast Monitor',
+
       theme: ThemeData(
         fontFamily: 'Poppins',
       ),
-      home: const HistoryPage(),
+
+      home: const MainNavigation(),
     );
   }
 }
